@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"siev",
+				"sieve"
+			],
+			[
+				"e",
+				"end"
+			],
+			[
+				"s",
+				"solution"
+			],
+			[
+				"cp",
+				"cps\tcps"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "arr.cpp",
+			"settings":
+			{
+				"buffer_size": 361,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "B"
+					},
+					"AQAAADIBAAAAAAAAMwEAAAAAAAAAAAAA",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMgEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAADIBAAAAAAAAMgEAAAAAAAABAAAAQg",
+					"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAMwEAAAAAAAAzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"BAAAAKcAAAAAAAAAqgAAAAAAAAAAAAAAhAAAAAAAAACHAAAAAAAAAAAAAABjAAAAAAAAAGYAAAAAAAAAAAAAADwAAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC7AAAAAAAAADwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					80,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkBAAAAAAAAaQEAAAAAAAABAAAAOw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAQAAAAAAAGoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAGkBAAAAAAAAagEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpAQAAAAAAAGkBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					90,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"BAAAALAAAAAAAAAAsAAAAAAAAAADAAAALy8gigAAAAAAAACKAAAAAAAAAAMAAAAvLyBmAAAAAAAAAGYAAAAAAAAAAwAAAC8vIDwAAAAAAAAAPAAAAAAAAAADAAAALy8g",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADHAAAAAAAAADwAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/c++17.sublime-build",
+			"settings":
+			{
+				"buffer_size": 378,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{\n\t\"shell_cmd\": \"${0:make}\"\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAvQEAAAAAAAAAAAAAvQEAAAAAAAC9AQAAAAAAABkAAAB7Cgkic2hlbGxfY21kIjogIm1ha2UiCn0K",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAbgEAAAAAAAAAAAAAbgEAAAAAAABuAQAAAAAAAL0BAAB7CiAgImNtZCI6IFsiYmFzaCIsICItYyIsICJnKysgLXN0ZD1jKysxNyAnJHtmaWxlfScgLW8gJyR7ZmlsZV9wYXRofS8ke2ZpbGVfYmFzZV9uYW1lfScgJiYgeGZjZTQtdGVybWluYWwgLWUgJ2Jhc2ggLWMgXCIke2ZpbGVfcGF0aH0vJHtmaWxlX2Jhc2VfbmFtZX07ZWNobztlY2hvO2VjaG8gQ29tcGlsYXRpb24gQ29tcGxldGVkIEMrKzE3O2VjaG8gUHJlc3MgRU5URVIgdG8gY29udGludWU7IHJlYWQgbGluZTsgcm0gJHtmaWxlX3BhdGh9LyR7ZmlsZV9iYXNlX25hbWV9OyBleGl0OyBleGVjIGJhc2hcIiciXSwKICAiZmlsZV9yZWdleCI6ICJeKC4uW146XSopOihbMC05XSspOj8oWzAtOV0rKT86PyAoLiopJCIsCiAgIndvcmtpbmdfZGlyIjogIiR7ZmlsZV9wYXRofSIsCiAgInNlbGVjdG9yIjogInNvdXJjZS5jLCBzb3VyY2UuYysrLCBzb3VyY2UuY3h4LCBzb3VyY2UuY3BwIgp9",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC9AQAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAegEAAAAAAAAAAAAAegEAAAAAAAB6AQAAAAAAAG4BAAB7CiAgICAiY21kIjogWyJnKysiLCAiLXN0ZD1jKysxNyIsICIkZmlsZSIsICItbyIsICIke2ZpbGVfYmFzZV9uYW1lfSIsICImJiIsICIuLyR7ZmlsZV9iYXNlX25hbWV9Il0sCiAgICAic2VsZWN0b3IiOiAic291cmNlLmMrKyIsCiAgICAic2hlbGwiOiB0cnVlLAogICAgIndvcmtpbmdfZGlyIjogIiRmaWxlX3BhdGgiLAogICAgInZhcmlhbnRzIjoKICAgIFsKICAgICAgICB7CiAgICAgICAgICAgICJuYW1lIjogIlJ1biIsCiAgICAgICAgICAgICJjbWQiOiBbImcrKyIsICItc3RkPWMrKzE3IiwgIiRmaWxlIiwgIi1vIiwgIiR7ZmlsZV9iYXNlX25hbWV9IiwgIiYmIiwgIi4vJHtmaWxlX2Jhc2VfbmFtZX0iXQogICAgICAgIH0KICAgIF0KfQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAG4BAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ouput.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/c++17.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/c++17.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/c++17.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ter",
+				"Terminal (panel)"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal (panel)"
+			],
+			[
+				"git",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 219.0,
+		"history":
+		[
+			"g++",
+			"import urllib.request,os,hashlib; h = '8e23d7ae049fa40086d7e928cde02a94' + '3f846a3b5a00e4210ef7ff96b4d5d19d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by = urllib.request.urlopen('http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join(ipp, pf), 'wb').write(by)\n"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/CSE__ALL/dsa_raw/fraz simplified dsa"
+	],
+	"file_history":
+	[
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/SublimeTextTrans.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/Default/install_package_control.py",
+		"/E/CSE__ALL/cp_problem/Topics_RAW/Basic math/output.txt",
+		"/E/CSE__ALL/cp_problem/Topics_RAW/Basic math/input.txt",
+		"/E/CSE__ALL/cp_problem/Topics_RAW/Basic math/prime_queries.cpp",
+		"/E/CSE__ALL/cp_problem/Topics_RAW/Basic math/Prime_factorisation_theory.cpp",
+		"/E/CSE__ALL/cp_problem/Topics_RAW/Basic math/seive_theory.cpp",
+		"/E/CSE__ALL/dsa_raw/fraz simplified dsa/output.txt",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/qs.sublime-snippet",
+		"/E/CSE__ALL/dsa_raw/fraz simplified dsa/arr.cpp",
+		"/E/CSE__ALL/dsa_raw/fraz simplified dsa/input.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/output.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/input.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/03.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/02.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/01.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/qs/01.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/vector_of_vector.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/vector_of_array.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/Vector/vector_of _pair.cpp",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/output.txt",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/largest_subarray_sum.cpp",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/subarray_sum_1.cpp",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/subarray.cpp",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/print_pair.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/stack/output.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/stack/s.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/deque/output.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/deque/input.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/Topics_RAW/STL/deque/deque.cpp",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/input.txt",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/binary_search.cpp",
+		"/E/CSE--ALL/dsa_raw _Topics/DSA_RAW/Sec-1/Array/linear_search.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/questions/800-1000/output.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/questions/800-1000/input.txt",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/questions/800-1000/61a.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/questions/800-1000/200b.cpp",
+		"/E/CSE--ALL/Cp - Problem/Cp-Questions/questions/800-1000/266b.cpp",
+		"/E/CSE--ALL/DSA_RAW/Sec-1/Array/pass_reff.cpp",
+		"/E/CSE--ALL/DSA_RAW/Sec-1/Array/basic.cpp",
+		"/E/CSE--ALL/DSA_RAW/Sec-1/Array/input.txt",
+		"/E/CSE--ALL/DSA_RAW/Sec-1/Array/output.txt",
+		"/E/CSE--ALL/DSA_RAW/Sec-1/Array/linear_search.cpp",
+		"/E/CSE--ALL/New folder/output.txt",
+		"/E/CSE--ALL/New folder/input.txt",
+		"/E/CSE--ALL/New folder/test.cpp",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/cps.sublime-build",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/cpm.sublime-build",
+		"/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/cp.sublime-build",
+		"/E/CSE--ALL/New folder/1.cpp"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\CSE__ALL\\dsa_raw\\fraz simplified dsa"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "arr.cpp",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/DELL/AppData/Roaming/Sublime Text/Packages/User/c++17.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								378
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/PackageDev/Package/Sublime Text Build System/Sublime Text Build System.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "input.txt",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "ouput.txt",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 51.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.687611673615,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 228.0
+	},
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

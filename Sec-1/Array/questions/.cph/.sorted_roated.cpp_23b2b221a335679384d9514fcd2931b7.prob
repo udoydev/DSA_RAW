@@ -1,0 +1,1 @@
+{"name":"Local: sorted_roated","url":"e:\\CSE__ALL\\dsa_raw\\Sec-1\\Array\\questions\\sorted_roated.cpp","tests":[{"id":1730567170002,"input":"5\n3 4 5 1 2","output":"TRUE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSE__ALL\\dsa_raw\\Sec-1\\Array\\questions\\sorted_roated.cpp","group":"local","local":true}
